@@ -23,7 +23,7 @@ body {
   background-color: var(--verylightgray);
 }
 .container {
-  margin: 80px auto;
+  margin: 180px auto;
   max-width: 1000px;
   display: flex;
   justify-content: space-evenly;
